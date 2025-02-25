@@ -6,7 +6,6 @@
   - [DataSet](#dataset)
   - [Notebooks](#notebooks)
   - [Requirements](#requirements)
-  - [Description](#description)
 
 ## DataSet
 
@@ -28,7 +27,7 @@
 pandas >= 1.3.3
 ```
 
-## Description
+<!-- ## Description -->
 
 > ## Author
 >
